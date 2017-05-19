@@ -5,7 +5,7 @@
 - Customers have options: Search for books, Manage their shopping carts, Checkout a shopping cart.
 - Managers have options: Add books, Place orders for books, Promote Customers to have managers credentials. 
 
-- Teammates
+- Team 
   - Esraa Mohamed
   - Gehad Fathy
   - Rewan Alaa
