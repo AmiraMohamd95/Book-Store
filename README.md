@@ -4,3 +4,9 @@
 - The system has two types of users Mangers and Customers. 
 - Customers have options: Search for books, Manage their shopping carts, Checkout a shopping cart.
 - Managers have options: Add books, Place orders for books, Promote Customers to have managers credentials. 
+
+- Teammates
+  - Esraa Mohamed
+  - Gehad Fathy
+  - Rewan Alaa
+  - Amira Mohamed
